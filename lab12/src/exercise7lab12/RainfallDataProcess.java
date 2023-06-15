@@ -13,7 +13,7 @@ import java.io.IOException;
  * @author irdinafarisya
  *
  */
-public class RainfallDataProcessing {
+public class RainfallDataProcess {
 
     public static void main(String[] args) {
 
